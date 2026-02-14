@@ -3,7 +3,7 @@ import HeroSection from '../assets/HeroSection.jpg'
 const Banner = () => {
     return (
         <>
-            <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row space-y-8 md:space-y-0'>
+            <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row space-y-8 md:space-y-0 my-10'>
                 
                 {/* Left Section */}
                 <div className='order-2 md:order-1 w-full md:w-1/2 md:mt-32 mt-12'>

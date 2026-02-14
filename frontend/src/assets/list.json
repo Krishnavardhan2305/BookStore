@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Atomic Habits",
+    "description": "A practical guide to building good habits, breaking bad ones, and mastering tiny behaviors that lead to remarkable results.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Alchemist",
+    "description": "A philosophical novel about a shepherd’s journey to discover his destiny and purpose in life.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rich Dad Poor Dad",
+    "description": "A personal finance book that teaches financial independence and investing through two contrasting mindsets.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81bsw6fnUiL.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Deep Work",
+    "description": "Rules for focused success in a distracted world and how to develop intense concentration skills.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71g2ednj0JL.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Power of Now",
+    "description": "A spiritual guide to living in the present moment and achieving inner peace.",
+    "price": "199",
+    "category": "Paid",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61Ij8nLooNL.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Think and Grow Rich",
+    "description": "A motivational classic focused on success principles and wealth-building mindset.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71UypkUjStL.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Psychology of Money",
+    "description": "Timeless lessons on wealth, greed, and happiness through real-world financial stories.",
+    "price": "299",
+    "category": "Paid",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81wgcld4wxL.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Zero to One",
+    "description": "A startup guide that explains how to build companies that create new things.",
+    "price": "159",
+    "category": "Paid",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71m-MxdJ2WL.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ikigai",
+    "description": "A Japanese concept exploring the secret to a long, happy, and meaningful life.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81l3rZK4lnL.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Clean Code",
+    "description": "A handbook of agile software craftsmanship teaching how to write readable and maintainable code.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41SH-SvWPxL.jpg"
+  }
+]
